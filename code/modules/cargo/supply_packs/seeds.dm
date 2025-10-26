@@ -17,7 +17,7 @@
 
 /datum/supply_pack/seeds/weed
 	name = "Pipe Weed"
-	cost = 8
+	cost = 5
 	contains = /obj/item/neuFarm/seed/westleach
 
 /datum/supply_pack/seeds/sleaf
