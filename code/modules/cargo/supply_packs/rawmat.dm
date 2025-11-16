@@ -5,7 +5,7 @@
 
 /datum/supply_pack/rawmats/glass
 	name = "Glass Panes (6)"
-	cost = 60
+	cost = 30
 	contains = list(
 		/obj/item/natural/glass,
 		/obj/item/natural/glass,
@@ -27,7 +27,7 @@
 
 /datum/supply_pack/rawmats/tin
 	name = "Tin Ore (4)"
-	cost = 35
+	cost = 20
 	contains = list(/obj/item/ore/tin,
 		/obj/item/ore/tin,
 		/obj/item/ore/tin,
@@ -46,7 +46,7 @@
 
 /datum/supply_pack/rawmats/coal
 	name = "Charcoal (6)"
-	cost = 50
+	cost = 45
 	contains = list(
 		/obj/item/ore/coal/charcoal,
 		/obj/item/ore/coal/charcoal,
@@ -80,7 +80,7 @@
 
 /datum/supply_pack/rawmats/feather
 	name = "Feathers (5)"
-	cost = 30
+	cost = 20
 	contains = list(
 		/obj/item/natural/feather,
 		/obj/item/natural/feather,
@@ -91,7 +91,7 @@
 
 /datum/supply_pack/rawmats/silk
 	name = "Silk (5)"
-	cost = 50
+	cost = 30
 	contains = list(
 		/obj/item/natural/silk,
 		/obj/item/natural/silk,
@@ -102,7 +102,7 @@
 
 /datum/supply_pack/rawmats/ash
 	name = "Fertillizing Ash (6)"
-	cost = 15
+	cost = 10
 	contains = list(
 		/obj/item/fertilizer/ash,
 		/obj/item/fertilizer/ash,

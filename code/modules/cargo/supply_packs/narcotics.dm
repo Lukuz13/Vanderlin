@@ -6,12 +6,12 @@
 
 /datum/supply_pack/narcotics/sigs
 	name = "Pipe Weed Zig"
-	cost = 5
+	cost = 2
 	contains = /obj/item/clothing/face/cigarette/rollie/nicotine
 
 /datum/supply_pack/narcotics/zigbox
 	name = "Zigbox"
-	cost = 30
+	cost = 13
 	contains = /obj/item/storage/fancy/cigarettes/zig
 
 /datum/supply_pack/narcotics/zigboxempt

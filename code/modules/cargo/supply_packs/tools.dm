@@ -40,7 +40,7 @@
 
 /datum/supply_pack/tools/parchment
 	name = "Parchment x5"
-	cost = 8
+	cost = 5
 	contains = list(/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper)
 
 /datum/supply_pack/tools/flint
@@ -67,7 +67,7 @@
 
 /datum/supply_pack/tools/lamptern
 	name = "Iron Lamptern"
-	cost = 20
+	cost = 15
 	contains = /obj/item/flashlight/flare/torch/lantern
 
 /datum/supply_pack/tools/pick
@@ -87,27 +87,27 @@
 
 /datum/supply_pack/tools/hammer
 	name = "Hammer"
-	cost = 25
+	cost = 20
 	contains = /obj/item/weapon/hammer/iron
 
 /datum/supply_pack/tools/shovel
 	name = "Shovel"
-	cost = 25
+	cost = 20
 	contains = /obj/item/weapon/shovel
 
 /datum/supply_pack/tools/Sickle
 	name = "Sickle"
-	cost = 25
+	cost = 20
 	contains = /obj/item/weapon/sickle
 
 /datum/supply_pack/tools/pitchfork
 	name = "Pitchfork"
-	cost = 30
+	cost = 20
 	contains = /obj/item/weapon/pitchfork
 
 /datum/supply_pack/tools/hoe
 	name = "Hoe"
-	cost = 25
+	cost = 20
 	contains = /obj/item/weapon/hoe
 
 /datum/supply_pack/tools/thresher

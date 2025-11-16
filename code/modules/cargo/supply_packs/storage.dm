@@ -5,7 +5,7 @@
 
 /datum/supply_pack/storage/pouch
 	name = "Pouch"
-	cost = 10
+	cost = 8
 	contains = /obj/item/storage/belt/pouch
 
 /datum/supply_pack/storage/sack
@@ -20,7 +20,7 @@
 
 /datum/supply_pack/storage/backpack
 	name = "Backpack"
-	cost = 20
+	cost = 15
 	contains = /obj/item/storage/backpack/backpack
 
 /datum/supply_pack/storage/sheath
